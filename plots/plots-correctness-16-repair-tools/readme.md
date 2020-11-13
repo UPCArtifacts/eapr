@@ -17,66 +17,66 @@ The correctness of the patches was determined by manual analysis conducted by th
 
 ## Arja
 
-![binary_performance_arja](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_arja.png)
+![binary_performance_arja](plots/plots-correctness-16-repair-tools/binary_performance_arja.png)
 
 ## Avatar
 
-![binary_performance_avatar](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_avatar.png)
+![binary_performance_avatar](plots/plots-correctness-16-repair-tools/binary_performance_avatar.png)
 
 ## Cardumen
 
-![binary_performance_cardumen](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_cardumen.png)
+![binary_performance_cardumen](plots/plots-correctness-16-repair-tools/binary_performance_cardumen.png)
 
 
 ## Dynamoth
 
-![binary_performance_dynamoth](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_dynamoth.png)
+![binary_performance_dynamoth](plots/plots-correctness-16-repair-tools/binary_performance_dynamoth.png)
 
 ## FixMiner
 
-![binary_performance_fixminer](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_fixminer.png)
+![binary_performance_fixminer](plots/plots-correctness-16-repair-tools/binary_performance_fixminer.png)
 
 ## GenProg
 
-![binary_performance_genprog](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_genprog.png)
+![binary_performance_genprog](plots/plots-correctness-16-repair-tools/binary_performance_genprog.png)
 
 ## jGenProg
 
-![binary_performance_jgenprog](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_jgenprog.png)
+![binary_performance_jgenprog](plots/plots-correctness-16-repair-tools/binary_performance_jgenprog.png)
 
 ## jKali
 
-![binary_performance_jkali](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_jkali.png)
+![binary_performance_jkali](plots/plots-correctness-16-repair-tools/binary_performance_jkali.png)
 
 ## jMutRepair
-![binary_performance_jmutrepair](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_jmutrepair.png)
+![binary_performance_jmutrepair](plots/plots-correctness-16-repair-tools/binary_performance_jmutrepair.png)
 
 ## Kali
 
-![binary_performance_kali](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_kali.png)
+![binary_performance_kali](plots/plots-correctness-16-repair-tools/binary_performance_kali.png)
 
 ## kPar
 
-![binary_performance_kpar](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_kpar.png)
+![binary_performance_kpar](plots/plots-correctness-16-repair-tools/binary_performance_kpar.png)
 
 ## Nopol
 
-![binary_performance_nopol](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_nopol.png)
+![binary_performance_nopol](plots/plots-correctness-16-repair-tools/binary_performance_nopol.png)
 
 ## NPEfix
 
-![binary_performance_npefix](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_npefix.png)
+![binary_performance_npefix](plots/plots-correctness-16-repair-tools/binary_performance_npefix.png)
 
 ## RSRepair
 
-![binary_performance_rsrepair](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_rsrepair.png)
+![binary_performance_rsrepair](plots/plots-correctness-16-repair-tools/binary_performance_rsrepair.png)
 
 ## SimFix
-![binary_performance_simfix](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_simfix.png)
+![binary_performance_simfix](plots/plots-correctness-16-repair-tools/binary_performance_simfix.png)
 
 ## TBAR
 
-![binary_performance_tbar](/Users/matias/develop/hardnessrepair/git-eapr/plots/plots-correctness-16-repair-tools/binary_performance_tbar.png)
+![binary_performance_tbar](plots/plots-correctness-16-repair-tools/binary_performance_tbar.png)
 
 
 
