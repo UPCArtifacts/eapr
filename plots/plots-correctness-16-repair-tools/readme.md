@@ -13,70 +13,70 @@ The correctness of the patches was determined by manual analysis conducted by th
 
 ## ACS
 
-![binary_performance_acs](plots/plots-correctness-16-repair-tools/binary_performance_acs.png)
+![binary_performance_acs](binary_performance_acs.png)
 
 ## Arja
 
-![binary_performance_arja](plots/plots-correctness-16-repair-tools/binary_performance_arja.png)
+![binary_performance_arja](binary_performance_arja.png)
 
 ## Avatar
 
-![binary_performance_avatar](plots/plots-correctness-16-repair-tools/binary_performance_avatar.png)
+![binary_performance_avatar](binary_performance_avatar.png)
 
 ## Cardumen
 
-![binary_performance_cardumen](plots/plots-correctness-16-repair-tools/binary_performance_cardumen.png)
+![binary_performance_cardumen](binary_performance_cardumen.png)
 
 
 ## Dynamoth
 
-![binary_performance_dynamoth](plots/plots-correctness-16-repair-tools/binary_performance_dynamoth.png)
+![binary_performance_dynamoth](binary_performance_dynamoth.png)
 
 ## FixMiner
 
-![binary_performance_fixminer](plots/plots-correctness-16-repair-tools/binary_performance_fixminer.png)
+![binary_performance_fixminer](binary_performance_fixminer.png)
 
 ## GenProg
 
-![binary_performance_genprog](plots/plots-correctness-16-repair-tools/binary_performance_genprog.png)
+![binary_performance_genprog](binary_performance_genprog.png)
 
 ## jGenProg
 
-![binary_performance_jgenprog](plots/plots-correctness-16-repair-tools/binary_performance_jgenprog.png)
+![binary_performance_jgenprog](binary_performance_jgenprog.png)
 
 ## jKali
 
-![binary_performance_jkali](plots/plots-correctness-16-repair-tools/binary_performance_jkali.png)
+![binary_performance_jkali](binary_performance_jkali.png)
 
 ## jMutRepair
-![binary_performance_jmutrepair](plots/plots-correctness-16-repair-tools/binary_performance_jmutrepair.png)
+![binary_performance_jmutrepair](binary_performance_jmutrepair.png)
 
 ## Kali
 
-![binary_performance_kali](plots/plots-correctness-16-repair-tools/binary_performance_kali.png)
+![binary_performance_kali](binary_performance_kali.png)
 
 ## kPar
 
-![binary_performance_kpar](plots/plots-correctness-16-repair-tools/binary_performance_kpar.png)
+![binary_performance_kpar](binary_performance_kpar.png)
 
 ## Nopol
 
-![binary_performance_nopol](plots/plots-correctness-16-repair-tools/binary_performance_nopol.png)
+![binary_performance_nopol](binary_performance_nopol.png)
 
 ## NPEfix
 
-![binary_performance_npefix](plots/plots-correctness-16-repair-tools/binary_performance_npefix.png)
+![binary_performance_npefix](binary_performance_npefix.png)
 
 ## RSRepair
 
-![binary_performance_rsrepair](plots/plots-correctness-16-repair-tools/binary_performance_rsrepair.png)
+![binary_performance_rsrepair](binary_performance_rsrepair.png)
 
 ## SimFix
-![binary_performance_simfix](plots/plots-correctness-16-repair-tools/binary_performance_simfix.png)
+![binary_performance_simfix](binary_performance_simfix.png)
 
 ## TBAR
 
-![binary_performance_tbar](plots/plots-correctness-16-repair-tools/binary_performance_tbar.png)
+![binary_performance_tbar](binary_performance_tbar.png)
 
 
 
