@@ -1,4 +1,4 @@
-# EPR (Explainable Program Repair)
+# E-APR (Explainable Automated Program Repair)
 
 This repository contains the data and scripts of the [paper](https://arxiv.org/abs/2002.03968 ):
 
