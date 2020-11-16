@@ -31,9 +31,10 @@ We consider 3 sets of features: 1) [object-oriented features from ckjm_ext](feat
 
 We present 3 sets of plots:
 
-
+#### Plot included in the paper
 [Footprints all repaired bugs from RepairThemAll: 5 bug benchmarks 11 repair tools](plots/plots-RepairThemAll-all-patches-11-repair-tools/readme.md)
 
+#### Additional plots from experiments not included in the paper
 
 [Footprints all correctly repaired bugs from RepairThemAll: 5 bug benchmarks 11 repair tools](plots/plots-correctness-RepairThemAll-11-repair-tools/readme.md)
 
